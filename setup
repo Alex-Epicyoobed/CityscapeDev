@@ -1,1 +1,3 @@
-print " this is just here so github recognizes this is in python, this line will eventually be scrapped. lol "
+print("Attack?")
+print("Options")
+print("---"
